@@ -23,6 +23,7 @@
   + Click Workspaces -> Collection -> Import -> upload file RestFullAPISpringBoot.postman_collection.json
   MySql:shopping.sql
   + Open MySql Work Bench -> login -> Server -> Data Import -> choose Import from Self-Contained File -> Start Import
+  + Node: port mysql at project:3310, usename: root, password: 123456
   
 - Usage:
   + First, run Project on Eclipse.
